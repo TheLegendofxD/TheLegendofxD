@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheLegendofxD
 - 👀 I’m interested in Python3, App-Dev and Game-Dev
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin and GDScript
 - 📫 How to reach me: via E-mail: ![Email-PNG](mail.png)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=TheLegendofxD&count_private=true&theme=nightowl&showicons=true)]()
